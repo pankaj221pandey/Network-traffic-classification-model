@@ -100,6 +100,6 @@ pull request for any improvements or new features.
 
 
 ## Licence
-License This project is licensed under the MIT License. See the LICENSE
+License This project is licensed under the MIT [License](/LICENSE). See the LICENSE
 file for details.
 
